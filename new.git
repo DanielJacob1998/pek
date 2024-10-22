@@ -1,0 +1,3 @@
+echo "# pek" >> README.md
+git init
+
